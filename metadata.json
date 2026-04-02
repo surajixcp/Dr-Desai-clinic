@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Desai's Dental Clinic",
+  "description": "Modern dental clinic in Indore specializing in implants and multispeciality dental care by Dr. Pushkar Desai.",
+  "requestFramePermissions": ["geolocation"]
+}
